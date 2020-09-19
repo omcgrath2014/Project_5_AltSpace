@@ -1,5 +1,11 @@
 This project uses the following items from Poly (http://poly.google.com):
 
+Title: Flying saucer
+Author: Poly by Google
+URL: https://poly.google.com/view/b0N_HeT_Ttb
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
 Title: Sheep
 Author: Poly by Google
 URL: https://poly.google.com/view/9nvBoaVZuX2
